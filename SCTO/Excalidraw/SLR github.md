@@ -71,8 +71,8 @@ Three ^u81mIZ6N
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 1258,
-			"versionNonce": 2137021639,
+			"version": 1259,
+			"versionNonce": 573094919,
 			"isDeleted": false,
 			"id": "cg2_IAyDjrPs8lQrbv9mC",
 			"fillStyle": "hachure",
@@ -92,7 +92,7 @@ Three ^u81mIZ6N
 			"frameId": "ahP08ndLEcj6uP2poHojg",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706840186033,
+			"updated": 1707033836862,
 			"link": "https://drshahizan.github.io/",
 			"locked": false,
 			"scale": [
@@ -102,8 +102,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "embeddable",
-			"version": 902,
-			"versionNonce": 1542567111,
+			"version": 903,
+			"versionNonce": 2127965161,
 			"isDeleted": false,
 			"id": "VdRBImHuWR_87E0-YlY17",
 			"fillStyle": "hachure",
@@ -136,7 +136,7 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1706839305271,
+			"updated": 1707033836862,
 			"link": "https://github.com/drshahizan",
 			"locked": false,
 			"scale": [
@@ -146,8 +146,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 745,
-			"versionNonce": 334615625,
+			"version": 746,
+			"versionNonce": 568435495,
 			"isDeleted": false,
 			"id": "8UxGRumg",
 			"fillStyle": "hachure",
@@ -167,7 +167,7 @@ Three ^u81mIZ6N
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706840579935,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -183,8 +183,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "embeddable",
-			"version": 988,
-			"versionNonce": 1610226505,
+			"version": 989,
+			"versionNonce": 551208649,
 			"isDeleted": false,
 			"id": "kkxMsCTbJsAGrMY1xunYs",
 			"fillStyle": "hachure",
@@ -213,7 +213,7 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1706840116318,
+			"updated": 1707033836863,
 			"link": "https://github.com/drshahizan/SLR-FC",
 			"locked": false,
 			"scale": [
@@ -223,8 +223,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "embeddable",
-			"version": 1042,
-			"versionNonce": 1950351081,
+			"version": 1043,
+			"versionNonce": 70297159,
 			"isDeleted": false,
 			"id": "7QtkntMvIXR_8ebRVMdx1",
 			"fillStyle": "hachure",
@@ -257,7 +257,7 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1706840198911,
+			"updated": 1707033836863,
 			"link": "https://github.com/drshahizan/obsidian",
 			"locked": false,
 			"scale": [
@@ -267,8 +267,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "embeddable",
-			"version": 1110,
-			"versionNonce": 837500359,
+			"version": 1111,
+			"versionNonce": 289998249,
 			"isDeleted": false,
 			"id": "MdJfH77VsSxQwtRvPEkeH",
 			"fillStyle": "hachure",
@@ -293,7 +293,7 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1706839305271,
+			"updated": 1707033836863,
 			"link": "https://github.com/drshahizan/learn-github",
 			"locked": false,
 			"scale": [
@@ -303,8 +303,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "arrow",
-			"version": 1583,
-			"versionNonce": 1728952327,
+			"version": 1584,
+			"versionNonce": 1207059815,
 			"isDeleted": false,
 			"id": "x07v31AhYd0WxIya1irdy",
 			"fillStyle": "hachure",
@@ -324,7 +324,7 @@ Three ^u81mIZ6N
 			"frameId": "0xnnIBS7IQh3mTUclJKT0",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706839305271,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -353,8 +353,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "arrow",
-			"version": 1882,
-			"versionNonce": 2026315559,
+			"version": 1883,
+			"versionNonce": 457992329,
 			"isDeleted": false,
 			"id": "6jUoJ5LGNECiNYrzrDgL9",
 			"fillStyle": "hachure",
@@ -374,7 +374,7 @@ Three ^u81mIZ6N
 			"frameId": "0xnnIBS7IQh3mTUclJKT0",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706839305271,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -403,8 +403,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 368,
-			"versionNonce": 1739191485,
+			"version": 369,
+			"versionNonce": 1551040647,
 			"isDeleted": false,
 			"id": "Tqdu9Tk1",
 			"fillStyle": "hachure",
@@ -429,7 +429,7 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1707015747690,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -445,8 +445,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "arrow",
-			"version": 1145,
-			"versionNonce": 955907207,
+			"version": 1146,
+			"versionNonce": 413167465,
 			"isDeleted": false,
 			"id": "O3yp0zRceFPhwQ29MYU-O",
 			"fillStyle": "hachure",
@@ -466,7 +466,7 @@ Three ^u81mIZ6N
 			"frameId": "0xnnIBS7IQh3mTUclJKT0",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706839305271,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -491,8 +491,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "arrow",
-			"version": 1184,
-			"versionNonce": 352181353,
+			"version": 1185,
+			"versionNonce": 326064039,
 			"isDeleted": false,
 			"id": "zMJ4HlG6TqgsDQ53M3BlH",
 			"fillStyle": "hachure",
@@ -512,7 +512,7 @@ Three ^u81mIZ6N
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706840235009,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -537,8 +537,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 418,
-			"versionNonce": 933921171,
+			"version": 419,
+			"versionNonce": 529570377,
 			"isDeleted": false,
 			"id": "gWQhUYmv",
 			"fillStyle": "hachure",
@@ -558,7 +558,7 @@ Three ^u81mIZ6N
 			"frameId": "0xnnIBS7IQh3mTUclJKT0",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707015747690,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -574,8 +574,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 311,
-			"versionNonce": 1332106525,
+			"version": 312,
+			"versionNonce": 1393806023,
 			"isDeleted": false,
 			"id": "DZ2fpmhx",
 			"fillStyle": "hachure",
@@ -595,7 +595,7 @@ Three ^u81mIZ6N
 			"frameId": "0xnnIBS7IQh3mTUclJKT0",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707015747691,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -611,8 +611,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 461,
-			"versionNonce": 11196211,
+			"version": 462,
+			"versionNonce": 1895328041,
 			"isDeleted": false,
 			"id": "wqLdULnX",
 			"fillStyle": "hachure",
@@ -632,7 +632,7 @@ Three ^u81mIZ6N
 			"frameId": "ahP08ndLEcj6uP2poHojg",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707015747691,
+			"updated": 1707033836863,
 			"link": "https://drshahizan.github.io/",
 			"locked": false,
 			"fontSize": 16,
@@ -648,8 +648,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 410,
-			"versionNonce": 1433905533,
+			"version": 411,
+			"versionNonce": 134011367,
 			"isDeleted": false,
 			"id": "T9DsxvsH",
 			"fillStyle": "hachure",
@@ -674,7 +674,7 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1707015747691,
+			"updated": 1707033836863,
 			"link": "https://github.com/drshahizan",
 			"locked": false,
 			"fontSize": 16,
@@ -690,8 +690,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "embeddable",
-			"version": 484,
-			"versionNonce": 1092266823,
+			"version": 485,
+			"versionNonce": 641948681,
 			"isDeleted": false,
 			"id": "IJk_vvYyZHLefBMf8v2fz",
 			"fillStyle": "hachure",
@@ -720,7 +720,7 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1706839305271,
+			"updated": 1707033836863,
 			"link": "https://github.com/drshahizan/SLR-FC/blob/main/materials/session1a.md",
 			"locked": false,
 			"scale": [
@@ -730,8 +730,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "arrow",
-			"version": 790,
-			"versionNonce": 393968807,
+			"version": 791,
+			"versionNonce": 1463223559,
 			"isDeleted": false,
 			"id": "aBB7HqedKK6AapXBxP6Xt",
 			"fillStyle": "hachure",
@@ -751,7 +751,7 @@ Three ^u81mIZ6N
 			"frameId": "0xnnIBS7IQh3mTUclJKT0",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706839305271,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -780,8 +780,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "embeddable",
-			"version": 552,
-			"versionNonce": 2026570023,
+			"version": 553,
+			"versionNonce": 527233769,
 			"isDeleted": false,
 			"id": "ct73SPtnj7G-4foGBkxjb",
 			"fillStyle": "hachure",
@@ -801,7 +801,7 @@ Three ^u81mIZ6N
 			"frameId": "0xnnIBS7IQh3mTUclJKT0",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706839331877,
+			"updated": 1707033836863,
 			"link": "https://github.com/drshahizan/SLR-FC/blob/main/materials/session1b.md",
 			"locked": false,
 			"scale": [
@@ -811,8 +811,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "arrow",
-			"version": 515,
-			"versionNonce": 2030288615,
+			"version": 516,
+			"versionNonce": 272550951,
 			"isDeleted": false,
 			"id": "OWQzG-o8Yrr1ahaygg3Ev",
 			"fillStyle": "hachure",
@@ -832,7 +832,7 @@ Three ^u81mIZ6N
 			"frameId": "0xnnIBS7IQh3mTUclJKT0",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706839305271,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -857,8 +857,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 475,
-			"versionNonce": 508524755,
+			"version": 476,
+			"versionNonce": 822128073,
 			"isDeleted": false,
 			"id": "bFOZVQRP",
 			"fillStyle": "hachure",
@@ -878,7 +878,7 @@ Three ^u81mIZ6N
 			"frameId": "0xnnIBS7IQh3mTUclJKT0",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707015747691,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -894,8 +894,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 571,
-			"versionNonce": 1260351965,
+			"version": 572,
+			"versionNonce": 1593880391,
 			"isDeleted": false,
 			"id": "JN3AIy8d",
 			"fillStyle": "hachure",
@@ -915,7 +915,7 @@ Three ^u81mIZ6N
 			"frameId": "0xnnIBS7IQh3mTUclJKT0",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707015747692,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -931,8 +931,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "rectangle",
-			"version": 3362,
-			"versionNonce": 1328526439,
+			"version": 3363,
+			"versionNonce": 303697065,
 			"isDeleted": false,
 			"id": "RPJyJHWH7HmfTG7FXvm3F",
 			"fillStyle": "cross-hatch",
@@ -958,14 +958,14 @@ Three ^u81mIZ6N
 			"frameId": "0xnnIBS7IQh3mTUclJKT0",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706839519603,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 1317,
-			"versionNonce": 1143040393,
+			"version": 1318,
+			"versionNonce": 1037643367,
 			"isDeleted": false,
 			"id": "jK8mTqHP3QNldwFdmilwQ",
 			"fillStyle": "solid",
@@ -988,14 +988,14 @@ Three ^u81mIZ6N
 			"frameId": "0xnnIBS7IQh3mTUclJKT0",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706839519603,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 4863,
-			"versionNonce": 405442439,
+			"version": 4864,
+			"versionNonce": 174362505,
 			"isDeleted": false,
 			"id": "sdmisuQWkWtHKWpeKJF4q",
 			"fillStyle": "solid",
@@ -1020,7 +1020,7 @@ Three ^u81mIZ6N
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706839519603,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1221,8 +1221,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "frame",
-			"version": 338,
-			"versionNonce": 1806026813,
+			"version": 339,
+			"versionNonce": 664062343,
 			"isDeleted": false,
 			"id": "0xnnIBS7IQh3mTUclJKT0",
 			"fillStyle": "solid",
@@ -1255,7 +1255,7 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1707015734067,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -1269,8 +1269,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "embeddable",
-			"version": 600,
-			"versionNonce": 711827977,
+			"version": 601,
+			"versionNonce": 1612428905,
 			"isDeleted": false,
 			"id": "2Y9bPeEodZcnzOa5tVGxV",
 			"fillStyle": "hachure",
@@ -1295,7 +1295,7 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1706840410048,
+			"updated": 1707033836863,
 			"link": "https://drshahizan.gitbook.io/copywriting-chatgpt/",
 			"locked": false,
 			"scale": [
@@ -1305,8 +1305,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 702,
-			"versionNonce": 237954675,
+			"version": 703,
+			"versionNonce": 158335143,
 			"isDeleted": false,
 			"id": "GrlDOpuy",
 			"fillStyle": "hachure",
@@ -1326,7 +1326,7 @@ Three ^u81mIZ6N
 			"frameId": "iR-1_G821tCU3puV2-bZj",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707015747692,
+			"updated": 1707033836863,
 			"link": "https://drshahizan.gitbook.io/copywriting-chatgpt/",
 			"locked": false,
 			"fontSize": 16,
@@ -1342,8 +1342,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "embeddable",
-			"version": 767,
-			"versionNonce": 1918793961,
+			"version": 768,
+			"versionNonce": 101384521,
 			"isDeleted": false,
 			"id": "o7UXMVzxaPcu8OU0jMRVA",
 			"fillStyle": "hachure",
@@ -1363,7 +1363,7 @@ Three ^u81mIZ6N
 			"frameId": "iR-1_G821tCU3puV2-bZj",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706840410048,
+			"updated": 1707033836863,
 			"link": "https://drshahizan.gitbook.io/ai-tools/",
 			"locked": false,
 			"scale": [
@@ -1373,8 +1373,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 929,
-			"versionNonce": 1567567421,
+			"version": 930,
+			"versionNonce": 1964463047,
 			"isDeleted": false,
 			"id": "QUphAum9",
 			"fillStyle": "hachure",
@@ -1394,7 +1394,7 @@ Three ^u81mIZ6N
 			"frameId": "iR-1_G821tCU3puV2-bZj",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707015747693,
+			"updated": 1707033836863,
 			"link": "https://drshahizan.gitbook.io/ai-tools/",
 			"locked": false,
 			"fontSize": 16,
@@ -1410,8 +1410,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "frame",
-			"version": 399,
-			"versionNonce": 463190173,
+			"version": 400,
+			"versionNonce": 160297001,
 			"isDeleted": false,
 			"id": "ahP08ndLEcj6uP2poHojg",
 			"fillStyle": "solid",
@@ -1436,7 +1436,7 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1707015734068,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -1450,8 +1450,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "frame",
-			"version": 695,
-			"versionNonce": 1278516477,
+			"version": 696,
+			"versionNonce": 312951527,
 			"isDeleted": false,
 			"id": "iR-1_G821tCU3puV2-bZj",
 			"fillStyle": "solid",
@@ -1480,7 +1480,7 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1707015734068,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -1494,8 +1494,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "arrow",
-			"version": 670,
-			"versionNonce": 2068620359,
+			"version": 671,
+			"versionNonce": 1083179785,
 			"isDeleted": false,
 			"id": "I83eF9Wpu7txVC0XMNwiO",
 			"fillStyle": "hachure",
@@ -1515,7 +1515,7 @@ Three ^u81mIZ6N
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706840194607,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1544,8 +1544,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "arrow",
-			"version": 1217,
-			"versionNonce": 1693710441,
+			"version": 1218,
+			"versionNonce": 1387023879,
 			"isDeleted": false,
 			"id": "bWPwcf4zd3sXIKXCl9SAc",
 			"fillStyle": "hachure",
@@ -1565,7 +1565,7 @@ Three ^u81mIZ6N
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706840570087,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1594,8 +1594,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "rectangle",
-			"version": 125,
-			"versionNonce": 606439815,
+			"version": 126,
+			"versionNonce": 931969513,
 			"isDeleted": false,
 			"id": "3xpMM-nTJye1SEjhXAsT1",
 			"fillStyle": "hachure",
@@ -1620,14 +1620,14 @@ Three ^u81mIZ6N
 					"id": "S4N3YyLd"
 				}
 			],
-			"updated": 1706840244020,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 110,
-			"versionNonce": 1084764275,
+			"version": 111,
+			"versionNonce": 1612903719,
 			"isDeleted": false,
 			"id": "S4N3YyLd",
 			"fillStyle": "hachure",
@@ -1647,7 +1647,7 @@ Three ^u81mIZ6N
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707016433440,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1663,8 +1663,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "image",
-			"version": 315,
-			"versionNonce": 2115074535,
+			"version": 316,
+			"versionNonce": 1603245257,
 			"isDeleted": false,
 			"id": "Z9Z6Dn8BjoRTDT2WKPidg",
 			"fillStyle": "hachure",
@@ -1684,7 +1684,7 @@ Three ^u81mIZ6N
 			"frameId": "puj8yYZUdsOS_QWs7jNNV",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706840543740,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1696,8 +1696,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "frame",
-			"version": 207,
-			"versionNonce": 1425143133,
+			"version": 208,
+			"versionNonce": 1383577671,
 			"isDeleted": false,
 			"id": "puj8yYZUdsOS_QWs7jNNV",
 			"fillStyle": "solid",
@@ -1722,7 +1722,7 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1707015734068,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -1736,8 +1736,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "arrow",
-			"version": 1215,
-			"versionNonce": 737180295,
+			"version": 1216,
+			"versionNonce": 2083787689,
 			"isDeleted": false,
 			"id": "ffnV3qK24VeXsAwRtm4jD",
 			"fillStyle": "hachure",
@@ -1757,7 +1757,7 @@ Three ^u81mIZ6N
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706840566029,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1786,8 +1786,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "embeddable",
-			"version": 1030,
-			"versionNonce": 241777597,
+			"version": 1031,
+			"versionNonce": 528947047,
 			"isDeleted": false,
 			"id": "-80G8cpc6Xd_RylBgu1BK",
 			"fillStyle": "hachure",
@@ -1807,7 +1807,7 @@ Three ^u81mIZ6N
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707033064247,
+			"updated": 1707033836863,
 			"link": "https://youtu.be/kA7Jkfa07Kk?si=xV_inhZZROlev1H6",
 			"locked": false,
 			"scale": [
@@ -1817,8 +1817,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "embeddable",
-			"version": 694,
-			"versionNonce": 2137288573,
+			"version": 695,
+			"versionNonce": 1369814665,
 			"isDeleted": false,
 			"id": "-tF1aScWLN0VME3Napb6V",
 			"fillStyle": "hachure",
@@ -1838,7 +1838,7 @@ Three ^u81mIZ6N
 			"frameId": "fN0nZLT-z6rJFUawJt9x3",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707016623472,
+			"updated": 1707033836863,
 			"link": "https://www.scopus.com/search/form.uri?display=basic#basic",
 			"locked": false,
 			"scale": [
@@ -1848,8 +1848,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "embeddable",
-			"version": 1704,
-			"versionNonce": 1736669149,
+			"version": 1705,
+			"versionNonce": 1302172295,
 			"isDeleted": false,
 			"id": "-Q9o51FqFQujplb72WdCq",
 			"fillStyle": "hachure",
@@ -1869,7 +1869,7 @@ Three ^u81mIZ6N
 			"frameId": "fN0nZLT-z6rJFUawJt9x3",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707016623472,
+			"updated": 1707033836863,
 			"link": "https://scholar.google.com/",
 			"locked": false,
 			"scale": [
@@ -1879,8 +1879,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 391,
-			"versionNonce": 459437117,
+			"version": 392,
+			"versionNonce": 312474985,
 			"isDeleted": false,
 			"id": "KBkblUoZ",
 			"fillStyle": "hachure",
@@ -1900,7 +1900,7 @@ Three ^u81mIZ6N
 			"frameId": "fN0nZLT-z6rJFUawJt9x3",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707016623472,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1916,8 +1916,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 561,
-			"versionNonce": 115532957,
+			"version": 562,
+			"versionNonce": 1702341031,
 			"isDeleted": false,
 			"id": "xRx5GkLc",
 			"fillStyle": "hachure",
@@ -1937,7 +1937,7 @@ Three ^u81mIZ6N
 			"frameId": "fN0nZLT-z6rJFUawJt9x3",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707016623472,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1953,8 +1953,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 356,
-			"versionNonce": 1772113501,
+			"version": 357,
+			"versionNonce": 242116681,
 			"isDeleted": false,
 			"id": "TsdZGXA4",
 			"fillStyle": "hachure",
@@ -1974,7 +1974,7 @@ Three ^u81mIZ6N
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707033072677,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1990,8 +1990,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "image",
-			"version": 739,
-			"versionNonce": 1193189725,
+			"version": 740,
+			"versionNonce": 608296135,
 			"isDeleted": false,
 			"id": "o3dthS86t2GF4cP0BtKUK",
 			"fillStyle": "hachure",
@@ -2011,7 +2011,7 @@ Three ^u81mIZ6N
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707033066929,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2023,8 +2023,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "frame",
-			"version": 388,
-			"versionNonce": 955505437,
+			"version": 389,
+			"versionNonce": 518813481,
 			"isDeleted": false,
 			"id": "fN0nZLT-z6rJFUawJt9x3",
 			"fillStyle": "solid",
@@ -2044,7 +2044,7 @@ Three ^u81mIZ6N
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707016623472,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -2058,8 +2058,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "rectangle",
-			"version": 940,
-			"versionNonce": 308690557,
+			"version": 941,
+			"versionNonce": 1838722023,
 			"isDeleted": false,
 			"id": "-Rhky7ZZaS3Q5fMkJxjap",
 			"fillStyle": "solid",
@@ -2088,14 +2088,14 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1707033070069,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 941,
-			"versionNonce": 14881693,
+			"version": 956,
+			"versionNonce": 1451600393,
 			"isDeleted": false,
 			"id": "ojUHfpwrF_AvkTFwTuzM5",
 			"fillStyle": "solid",
@@ -2130,14 +2130,14 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1707033070069,
+			"updated": 1707033836863,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 943,
-			"versionNonce": 724688157,
+			"version": 944,
+			"versionNonce": 2106103559,
 			"isDeleted": false,
 			"id": "k3xE6dsD5UwcjSkAnJV73",
 			"fillStyle": "solid",
@@ -2178,14 +2178,14 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 942,
-			"versionNonce": 1639097181,
+			"version": 943,
+			"versionNonce": 1849000169,
 			"isDeleted": false,
 			"id": "SFUNb6y91GCg7mnKS1-DH",
 			"fillStyle": "solid",
@@ -2214,14 +2214,14 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 941,
-			"versionNonce": 1499145341,
+			"version": 942,
+			"versionNonce": 1519263271,
 			"isDeleted": false,
 			"id": "D6tWgAE_W5-MVxNtWF7bG",
 			"fillStyle": "solid",
@@ -2250,14 +2250,14 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 942,
-			"versionNonce": 1492760989,
+			"version": 943,
+			"versionNonce": 1938258889,
 			"isDeleted": false,
 			"id": "mcW_t9Fd_5BCUbwpDkT9Q",
 			"fillStyle": "solid",
@@ -2286,14 +2286,14 @@ Three ^u81mIZ6N
 					"type": "arrow"
 				}
 			],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 2824,
-			"versionNonce": 2010571453,
+			"version": 2857,
+			"versionNonce": 127254855,
 			"isDeleted": false,
 			"id": "JFqrkDuqycwy7nvysdkft",
 			"fillStyle": "solid",
@@ -2320,7 +2320,7 @@ Three ^u81mIZ6N
 					"id": "Xd2GKrlI"
 				}
 			],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2349,8 +2349,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "arrow",
-			"version": 2824,
-			"versionNonce": 1740997405,
+			"version": 2857,
+			"versionNonce": 915872425,
 			"isDeleted": false,
 			"id": "Hz7BAiwzX0XJqZC9O2lFu",
 			"fillStyle": "solid",
@@ -2372,7 +2372,7 @@ Three ^u81mIZ6N
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2401,8 +2401,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "arrow",
-			"version": 2820,
-			"versionNonce": 901846909,
+			"version": 2823,
+			"versionNonce": 1979449447,
 			"isDeleted": false,
 			"id": "UnAkd5-dseRQlAeeBsFNH",
 			"fillStyle": "solid",
@@ -2429,7 +2429,7 @@ Three ^u81mIZ6N
 					"id": "1iQk2eOd"
 				}
 			],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2462,8 +2462,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "arrow",
-			"version": 2820,
-			"versionNonce": 2081103837,
+			"version": 2823,
+			"versionNonce": 2014305673,
 			"isDeleted": false,
 			"id": "ZwXaoDVicBR7XjeqM5oCw",
 			"fillStyle": "solid",
@@ -2490,7 +2490,7 @@ Three ^u81mIZ6N
 					"id": "XE7AUxPi"
 				}
 			],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2523,8 +2523,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "arrow",
-			"version": 2821,
-			"versionNonce": 280304701,
+			"version": 2824,
+			"versionNonce": 932010887,
 			"isDeleted": false,
 			"id": "SNtZ59Q4TZrwMxjRFhBQt",
 			"fillStyle": "solid",
@@ -2551,7 +2551,7 @@ Three ^u81mIZ6N
 					"id": "u81mIZ6N"
 				}
 			],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2584,8 +2584,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 939,
-			"versionNonce": 2004051677,
+			"version": 940,
+			"versionNonce": 1462584425,
 			"isDeleted": false,
 			"id": "pYLqclgr",
 			"fillStyle": "solid",
@@ -2605,7 +2605,7 @@ Three ^u81mIZ6N
 			"frameId": "WyZ5Z2-jpfhYAV6L-W2nU",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2621,8 +2621,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 939,
-			"versionNonce": 1708693501,
+			"version": 954,
+			"versionNonce": 1887851175,
 			"isDeleted": false,
 			"id": "u7eozNSG",
 			"fillStyle": "solid",
@@ -2642,7 +2642,7 @@ Three ^u81mIZ6N
 			"frameId": "WyZ5Z2-jpfhYAV6L-W2nU",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2658,8 +2658,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 939,
-			"versionNonce": 1049768317,
+			"version": 940,
+			"versionNonce": 2142949193,
 			"isDeleted": false,
 			"id": "mi04gPtN",
 			"fillStyle": "solid",
@@ -2679,7 +2679,7 @@ Three ^u81mIZ6N
 			"frameId": "WyZ5Z2-jpfhYAV6L-W2nU",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2695,8 +2695,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 940,
-			"versionNonce": 1839214525,
+			"version": 941,
+			"versionNonce": 160654791,
 			"isDeleted": false,
 			"id": "s7ORzXt0",
 			"fillStyle": "solid",
@@ -2716,7 +2716,7 @@ Three ^u81mIZ6N
 			"frameId": "WyZ5Z2-jpfhYAV6L-W2nU",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2732,8 +2732,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 939,
-			"versionNonce": 450596061,
+			"version": 940,
+			"versionNonce": 403963433,
 			"isDeleted": false,
 			"id": "0Slc6cZ6",
 			"fillStyle": "solid",
@@ -2753,7 +2753,7 @@ Three ^u81mIZ6N
 			"frameId": "WyZ5Z2-jpfhYAV6L-W2nU",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2769,8 +2769,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 940,
-			"versionNonce": 271220221,
+			"version": 941,
+			"versionNonce": 567350503,
 			"isDeleted": false,
 			"id": "vPVd7uaU",
 			"fillStyle": "solid",
@@ -2790,7 +2790,7 @@ Three ^u81mIZ6N
 			"frameId": "WyZ5Z2-jpfhYAV6L-W2nU",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2806,8 +2806,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 320,
-			"versionNonce": 195071133,
+			"version": 321,
+			"versionNonce": 1864651017,
 			"isDeleted": false,
 			"id": "Xd2GKrlI",
 			"fillStyle": "solid",
@@ -2827,7 +2827,7 @@ Three ^u81mIZ6N
 			"frameId": "WyZ5Z2-jpfhYAV6L-W2nU",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2843,8 +2843,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 320,
-			"versionNonce": 209645821,
+			"version": 321,
+			"versionNonce": 1087102983,
 			"isDeleted": false,
 			"id": "1iQk2eOd",
 			"fillStyle": "solid",
@@ -2864,7 +2864,7 @@ Three ^u81mIZ6N
 			"frameId": "WyZ5Z2-jpfhYAV6L-W2nU",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2880,8 +2880,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 319,
-			"versionNonce": 1087490397,
+			"version": 320,
+			"versionNonce": 1785153513,
 			"isDeleted": false,
 			"id": "XE7AUxPi",
 			"fillStyle": "solid",
@@ -2901,7 +2901,7 @@ Three ^u81mIZ6N
 			"frameId": "WyZ5Z2-jpfhYAV6L-W2nU",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2917,8 +2917,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "text",
-			"version": 320,
-			"versionNonce": 703239613,
+			"version": 321,
+			"versionNonce": 1216366375,
 			"isDeleted": false,
 			"id": "u81mIZ6N",
 			"fillStyle": "solid",
@@ -2938,7 +2938,7 @@ Three ^u81mIZ6N
 			"frameId": "WyZ5Z2-jpfhYAV6L-W2nU",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2954,8 +2954,8 @@ Three ^u81mIZ6N
 		},
 		{
 			"type": "frame",
-			"version": 496,
-			"versionNonce": 1136888349,
+			"version": 497,
+			"versionNonce": 870867657,
 			"isDeleted": false,
 			"id": "WyZ5Z2-jpfhYAV6L-W2nU",
 			"fillStyle": "solid",
@@ -2975,7 +2975,7 @@ Three ^u81mIZ6N
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707033070069,
+			"updated": 1707033836864,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -3003,8 +3003,8 @@ Three ^u81mIZ6N
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "arrow",
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2556.022105932661,
-		"scrollY": 864.1009519955885,
+		"scrollX": 2499.8288145286306,
+		"scrollY": 1141.0374672257094,
 		"zoom": {
 			"value": 0.2
 		},
