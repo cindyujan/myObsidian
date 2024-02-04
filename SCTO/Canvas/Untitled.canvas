@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"2a4ce3251e132339","type":"file","file":"__Papers/2012_The Controller Placement Problem_Heller et al.pdf","x":-540,"y":-160,"width":500,"height":440},
+		{"id":"a02933d067a202aa","type":"file","file":"__Media/WhatsApp Image 2023-03-20 at 15.40.36.jpg","x":100,"y":15,"width":400,"height":265},
+		{"id":"3cc0e0577f9a2e06","type":"text","text":"Controller Placement","x":100,"y":-260,"width":250,"height":60},
+		{"id":"94374c8e6068c946","type":"text","text":"Software Defined Networking","x":-290,"y":-320,"width":250,"height":60},
+		{"id":"446d411f941c2d93","type":"file","file":"__Papers/2013_Meta-heuristic Methods for Outliers Detection in Multivariate Time Series.pdf","x":-220,"y":360,"width":400,"height":400},
+		{"id":"a95855f94e2e9a61","x":-1120,"y":360,"width":620,"height":380,"type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HijRVnwACBw?si=Qh9GHawMcTGBGgNX\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"},
+		{"id":"cebac614d6ef864c","type":"file","file":"Excalidraw/SLR github.md","x":-1210,"y":-360,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"b5503ea19bc608ae","fromNode":"3cc0e0577f9a2e06","fromSide":"left","toNode":"94374c8e6068c946","toSide":"right"},
+		{"id":"e11fbd5847e4e6e1","fromNode":"94374c8e6068c946","fromSide":"bottom","toNode":"2a4ce3251e132339","toSide":"top"},
+		{"id":"2997589beb152efa","fromNode":"2a4ce3251e132339","fromSide":"right","toNode":"a02933d067a202aa","toSide":"left"},
+		{"id":"6fbc6e1062ef15a5","fromNode":"446d411f941c2d93","fromSide":"left","toNode":"2a4ce3251e132339","toSide":"bottom"},
+		{"id":"d7d8e41a8089b871","fromNode":"2a4ce3251e132339","fromSide":"left","toNode":"a95855f94e2e9a61","toSide":"top"}
+	]
+}

@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "062bb2dd732d5070",
+    "type": "split",
+    "children": [
+      {
+        "id": "2da49ba4f4864e3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c5cb3bb6fad32eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercise 2/Chapter1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "339df123e110c960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercise 2/Chapter1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7f54e560aa34154",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/Kanban board.md"
+              }
+            }
+          },
+          {
+            "id": "24b350b4645f88a8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/SLR github.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "705a183a696bd344",
+    "type": "split",
+    "children": [
+      {
+        "id": "893caea0b62ba53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e9c833c39092e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79030114292247cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "excali",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4ab73e5ca81d4fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "f1027b9aeedb0cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e93ef09024c4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7832789618f5a81a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/SLR github.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ebfab15fcc5d8d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/SLR github.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "897d8f0c7eaed2e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6857a43a16461b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/SLR github.md"
+              }
+            }
+          },
+          {
+            "id": "ccc3dcce557eede7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "24b350b4645f88a8",
+  "lastOpenFiles": [
+    "Canvas/Untitled.canvas",
+    "Excalidraw/SLR github.md",
+    "__Papers/2013_Meta-heuristic Methods for Outliers Detection in Multivariate Time Series.pdf",
+    "Canvas/Start here.canvas",
+    "Canvas/Sample.canvas",
+    "Canvas/Reference Manager.canvas",
+    "Canvas/Research Mindmap.canvas",
+    "Canvas/Readme canvas.md",
+    "Canvas/Media Dashboard.canvas",
+    "Canvas/Library Dashboard.canvas",
+    "Canvas/Brainstorm.canvas",
+    "Canvas/Book Dashboard.canvas",
+    "Mind Map/Readme Mind map.md",
+    "Mind Map/Mind mapping.md",
+    "Exercise 2/Chapter1.md",
+    "Kanban/Kanban board.md",
+    "Mind Map/IoT blockchain.md",
+    "Mind Map/Check box.md",
+    "Markdown/Markdown.md",
+    "Activity/Untitled.md",
+    "Cindy Ujan.md",
+    "Read This.md",
+    "Reading List.md",
+    "Readme.md",
+    "Dataview/≡ƒùô∩╕Å Calendar.md",
+    "__Papers/2012_The Controller Placement Problem_Heller et al.pdf",
+    "__Media/WhatsApp Image 2023-03-20 at 15.40.36.jpg",
+    "__Media/Zettelkasten steps.png",
+    "Dataview/List of Papers.md",
+    "__Papers/Shahizan 2020.pdf",
+    "Dataview/Dataview1a.md",
+    "Dataview/Dataview 1.md",
+    "1 Primary Sources/Shabanov 2022a.md",
+    "1 Primary Sources/Pianka 1966.md",
+    "1 Primary Sources/Hayrol 2020.md",
+    "1 Primary Sources/Dhekre 2023.md",
+    "1 Primary Sources/Connell 1964.md",
+    "Dataview1.md",
+    "Kanban/Readme Kanban Plugin.md",
+    "Exercise 2",
+    "Pasted Image 20240204111353_364.jpg",
+    "Canvas/Homepage.canvas",
+    "Canvas",
+    "Kanban",
+    "Zotero",
+    "Markdown",
+    "__Media/Pasted Image 20240202102119_150.png",
+    "Zettelkasten",
+    "Z",
+    "Pasted Image 20240202101844_201.png",
+    "__Media/Pasted Image 20240202095039_003.jpg",
+    "__Media/Screenshot 2022-12-14 at 17.03.26.jpg",
+    "__Media/Pasted image 20221214131115.png",
+    "__Media/Pasted image 20221214125814.png",
+    "__Media/Pasted image 20221214124807.png"
+  ]
+}
