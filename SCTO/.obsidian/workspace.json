@@ -4,55 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "2da49ba4f4864e3b",
+        "id": "21272607fd56db03",
         "type": "tabs",
         "children": [
           {
-            "id": "5c5cb3bb6fad32eb",
+            "id": "472d8aba4b61136a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Exercise 2/Chapter1.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "339df123e110c960",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exercise 2/Chapter1.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7f54e560aa34154",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/Kanban board.md"
-              }
-            }
-          },
-          {
-            "id": "24b350b4645f88a8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/SLR github.md"
+                "file": "Canvas/Book Dashboard.canvas",
+                "viewState": {
+                  "x": 1900,
+                  "y": 80,
+                  "zoom": -1.6490490038821253
+                }
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/SLR github.md",
+                "file": "Canvas/Book Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/SLR github.md",
+                "file": "Canvas/Book Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/SLR github.md"
+                "file": "Canvas/Book Dashboard.canvas"
               }
             }
           },
@@ -191,10 +161,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24b350b4645f88a8",
+  "active": "472d8aba4b61136a",
   "lastOpenFiles": [
-    "Canvas/Untitled.canvas",
+    "Kanban/Kanban board.md",
+    "Exercise 2/Chapter1.md",
+    "Cindy Ujan.md",
     "Excalidraw/SLR github.md",
+    "Canvas/Untitled.canvas",
     "__Papers/2013_Meta-heuristic Methods for Outliers Detection in Multivariate Time Series.pdf",
     "Canvas/Start here.canvas",
     "Canvas/Sample.canvas",
@@ -207,13 +180,10 @@
     "Canvas/Book Dashboard.canvas",
     "Mind Map/Readme Mind map.md",
     "Mind Map/Mind mapping.md",
-    "Exercise 2/Chapter1.md",
-    "Kanban/Kanban board.md",
     "Mind Map/IoT blockchain.md",
     "Mind Map/Check box.md",
     "Markdown/Markdown.md",
     "Activity/Untitled.md",
-    "Cindy Ujan.md",
     "Read This.md",
     "Reading List.md",
     "Readme.md",
